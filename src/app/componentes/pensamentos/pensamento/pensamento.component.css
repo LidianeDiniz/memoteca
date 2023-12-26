@@ -46,11 +46,12 @@
 
 .pensamento-g {
   width: 556px;
+  grid-template-columns: repeat(auto-fill, minmax(262px, 1fr));
 }
 
 .pensamento-p {
   width: 262px;
-  height: 250px;
+  grid-template-columns: repeat(auto-fill, minmax(262px, 3fr));
 }
 
 @media screen and (max-width: 768px) {
