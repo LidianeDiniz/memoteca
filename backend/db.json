@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Testando Api json",
+      "autoria": "Lidiane ",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev ",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é muito bom, estou amando!'",
+      "autoria": "Lidiane",
+      "modelo": "modelo3"
+    }
+  ]
+}
